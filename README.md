@@ -1,6 +1,6 @@
 # Collections
 Task #1 Search in Array
-  Implement code that searches in an array for an item with specified PartNumber.
+  1) Implement code that searches in an array for an item with specified PartNumber.
 
 Task #2 Replace T[] with List<T>
   1) Replace Orderlteml] array with List<Orderltem> in Order class. 
@@ -8,7 +8,7 @@ Task #2 Replace T[] with List<T>
   3) Implement search for a list item.
   
 Task #3 - Replace List<T> with KeyedCollection<TKey,TItem>
-  Replace List<T> array with KeyedCollection<TKey, TItem> in Order class.
+  1) Replace List<T> array with KeyedCollection<TKey, TItem> in Order class.
   
 Task #4 Use ReadOnlyCollection<T> 
   1) Change _orderltems field's type to List<T>.
